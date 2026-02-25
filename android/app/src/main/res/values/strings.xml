@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">GupShup</string>
+    <string name="title_activity_main">GupShup</string>
+    <string name="package_name">com.gupshup.chat</string>
+    <string name="custom_url_scheme">com.gupshup.chat</string>
+</resources>
